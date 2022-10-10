@@ -1,0 +1,37 @@
+body{
+  background-color: #8C9AAE;
+  color: white;
+}
+#title, #description{
+  text-align: center;
+}
+#survey-form{
+  background-color: #2F294D;
+  /* opacity:; */
+  border: none;
+  border-radius: 5px;
+  padding: 25px;
+  margin: 90px;
+  margin-bottom: -10px;;
+  }
+/* input, select {
+     margin-top:;
+  } */
+input#name-label, input#email-label, input#number-label, select , button{
+   border: none;
+ border-radius: 5px;
+ width: 100%;
+ padding: 10px;
+}
+textarea{
+  padding-bottom: 70px;
+  margin-top: -15px;
+  margin-bottom: 20px;
+  width: 100%;
+  border: none;
+ 
+}
+button{
+  background-color: #7FB196;
+  color: white;
+}
