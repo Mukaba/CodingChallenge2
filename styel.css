@@ -13,7 +13,7 @@ Details
 :root {
   --color-white: #f3f3f3;
   --color-darkblue: #1b1b32;
-  --color-darkblue-alpha: rgba(27, 27, 50, 0.8);
+  --color-darkblue-alpha: rgba(27, 27, 60, 0.8);
   --color-green: #37af65;
 }
 
@@ -118,7 +118,7 @@ button {
 }
 
 .clue {
-  margin-left: 0.35rem;
+  margin-left: 0.55rem;
   font-size: 0.9rem;
   color: #e4e4e4;
 }
